@@ -8,7 +8,7 @@ main:
     url: /categories/Python/
   - title: "Setting"
     url: /categories/Setting/
-  # - title: "Categories"
-  #   url: /categories/
+  - title: "Categories"
+    url: /categories/
   # - title: "Tags"
   #   url: /tags/
