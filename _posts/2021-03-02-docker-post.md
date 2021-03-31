@@ -20,12 +20,12 @@ $ docker run -it --gpus all -p 8888:8888 -v my_project:my_project --name ubuntu 
 ```
 
 - 옵션 
-1) -i interactive
-2) -t Pseudo-tty
-3) -p [도커 포트:컨에이너 포트]
-4) --name [생성할 컨테이너 이름]
-5) --gpus [사용할 gpu]
-6) -v [host 폴더][컨테이너 폴더]
+1) -i interactive  
+2) -t Pseudo-tty  
+3) -p [도커 포트:컨에이너 포트]  
+4) --name [생성할 컨테이너 이름]  
+5) --gpus [사용할 gpu]  
+6) -v [host 폴더][컨테이너 폴더]  
 
 ### 1-2. 접속
 ```
