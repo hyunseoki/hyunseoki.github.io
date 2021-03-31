@@ -19,7 +19,7 @@ $ docker run <옵선><이미지 이름><컨테이너 실행 시, 기본 실행 �
 $ docker run -it --gpus all -p 8888:8888 -v my_project:my_project --name ubuntu /bin/bash
 ```
 
-- 옵션 
+- 옵션  
 1) -i interactive  
 2) -t Pseudo-tty  
 3) -p [도커 포트:컨에이너 포트]  
