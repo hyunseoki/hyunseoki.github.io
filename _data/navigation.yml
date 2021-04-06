@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Python"
     url: /categories/python/
+  - title: "Linux"
+    url: /categories/linux/
   - title: "Setting"
     url: /categories/setting/
   # - title: "Categories"
