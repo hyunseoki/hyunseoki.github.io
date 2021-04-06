@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu 패키지 관리"
 categories:
-  - Setting
+  - Linux
 tags:
   - Ubuntu
   - Linux
