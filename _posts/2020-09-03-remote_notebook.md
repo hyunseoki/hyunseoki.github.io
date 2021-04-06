@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu 패키지 관리"
+title: "주피터 노트북 원격 서버 열기"
 categories:
   - Python
 tags:
